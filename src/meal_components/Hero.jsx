@@ -7,7 +7,7 @@ const Hero = () => {
           <div className="col-lg-7">
             <span className="eyebrow">14 categories, one kitchen</span>
             <h1>
-              What's <em>cooking</em> today?
+              I am  <em>cooking</em> today?
             </h1>
             <p className="lead">
               Every dish starts as a category on a card. Browse beef, pasta, vegan, dessert and more — pulled straight from TheMealDB — and find what you're making tonight.
